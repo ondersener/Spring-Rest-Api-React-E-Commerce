@@ -17,7 +17,7 @@ For Users :
 - Add an Order
 - Order List
 - Delete Order
-For Admin : 
+- For Admin : 
 - Admin Login
 - Category Management (List,Add,Delete,Update)
 - Product Management (List,Add,Delete,Update)
