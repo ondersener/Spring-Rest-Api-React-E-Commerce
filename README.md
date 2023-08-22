@@ -22,6 +22,12 @@ Full Stack Spring Rest Api React E-Commerce Application -JPA
 - Product Management (List,Add,Delete,Update)
 - All Order List
 
+ # How to run this project : 
+ - Download this repository to your local machine.
+ - Import java_se_final.sql from the files for the MySQL database.
+ - Start backend and frontend project.
+ - Run the project http://localhost:3001 in your browser.
+
 # Project Display Images
 <p>
 <a href="https://github.com/ondersener/Spring-Security-Rest-Api-React-E-Commerce/blob/main/project_images/home.jpg">
