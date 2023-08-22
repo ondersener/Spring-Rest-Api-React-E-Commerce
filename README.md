@@ -8,7 +8,6 @@ Full Stack Spring Rest Api React E-Commerce Application -JPA
 - React 18.2.0
 
 # Application Services : 
-For Users :
 - Product List
 - Product List By Category
 - Product Detail
@@ -16,9 +15,9 @@ For Users :
 - User Register
 - Add an Order
 - Order List
-- Delete Order
-- For Admin : 
-- Admin Login
-- Category Management (List,Add,Delete,Update)
+- Delete Order 
+- Admin Login 
+- Category Management (List,Add,Delete,Update) 
 - Product Management (List,Add,Delete,Update)
+- All Order List 
   
