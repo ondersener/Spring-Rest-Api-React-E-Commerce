@@ -6,6 +6,7 @@ Full Stack Spring Rest Api React E-Commerce Application -JPA
 - Spring 2.7.14
 - MySQL 8
 - React 18.2.0
+- Bootstrap
 
 # Application Services : 
 - Product List
